@@ -62,11 +62,15 @@ export default function CareerLog() {
                     display: "flex",
                     alignItems: "center",
                     gap: "10px",
+                    flexWrap: "wrap",
                   }}
                 >
                   <span className="gh-timeline-role">{exp.role}</span>
                   {exp.isCurrent && (
                     <span className="gh-timeline-badge">CURRENT</span>
+                  )}
+                  {!exp.isCurrent && exp.duration && (
+                    <span className="gh-timeline-duration">{exp.duration}</span>
                   )}
                 </div>
                 <span className="gh-timeline-hash">commit {exp.hash}</span>

@@ -7,7 +7,6 @@ export interface Repo {
   langColor: string;
   stars: string;
   forks: string;
-  /* Detail fields (shown on click) */
   image?: string;
   readme?: string;
   repoUrl?: string;
@@ -17,11 +16,16 @@ export interface Repo {
 
 export const techStack = [
   "Swift / SwiftUI",
-  "Rust",
-  "PostgreSQL",
-  "Docker",
-  "Kubernetes",
+  "Laravel",
+  "Next.js",
+  "Flutter",
+  "Firebase",
   "SwiftData",
+  "Postman",
+  "Git",
+  "Linux",
+  "MySQL",
+  "Docker",
 ];
 
 export const activityLevels = [

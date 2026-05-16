@@ -7,6 +7,7 @@ const categoryTabs = [
   { id: "overview", label: "Overview" },
   { id: "app", label: "App" },
   { id: "web", label: "Web" },
+  { id: "ml", label: "ML" },
   { id: "product", label: "Product" },
 ];
 

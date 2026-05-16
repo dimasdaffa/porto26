@@ -48,11 +48,11 @@ export const experiences: Experience[] = [
     removals: ["Refactored untyped Redux boilerplate"],
   },
   {
-    role: "Junior Software Developer",
+    role: "Wirausaha Merdeka Technopreneurship",
     isCurrent: false,
     hash: "d1f4e77",
-    company: "Startup Launchpad",
-    period: "May 2017 · May 2019 · Austin, TX",
+    company: "Kampus Merdeka",
+    period: "Aug 2023 · Jan 2024 · Semarang, ID",
     description: "",
     diffHeader: "diff --git a/learning b/contributions",
     additions: [

@@ -9,7 +9,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DEV_PORTFOLIO — Portfolio as Code",
+  title: "dimasdaffa — Portfolio",
   description:
     "A software engineer's portfolio built with Git-Architecture UI. Technical precision meets clean documentation.",
 };

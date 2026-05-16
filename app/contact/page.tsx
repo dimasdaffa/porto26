@@ -16,7 +16,7 @@ export default function ContactPage() {
         <main className="gh-main">
           <div className="animate-in">
             <div className="gh-breadcrumb">
-              📄 <span>dev_portfolio</span> / <strong style={{ color: "var(--gh-text-heading)" }}>CONTACT.md</strong>
+              📄 <span>dimasdaffa</span> / <strong style={{ color: "var(--gh-text-heading)" }}>CONTACT.md</strong>
             </div>
 
             <h1

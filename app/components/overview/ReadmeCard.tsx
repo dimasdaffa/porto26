@@ -23,7 +23,7 @@ export default function ReadmeCard() {
           </p>
 
           <div style={{ marginTop: "20px" }}>
-            <a href="#" className="gh-btn-primary" style={{ display: "inline-flex", width: "auto" }}>
+            <a href="/docs/DimasDaffaErnanda_CV.pdf" download className="gh-btn-primary" style={{ display: "inline-flex", width: "auto" }}>
               ↓ Download Resume
             </a>
           </div>
